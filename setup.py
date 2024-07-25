@@ -69,7 +69,7 @@ setup(
         "python-Levenshtein == 0.12.0",
         "sacremoses == 0.0.43",
         "seqeval == 0.0.12",
-        "scikit-learn == 0.22.2.post1",
+        "scikit-learn == 1.5.0",
         "scipy == 1.4.1",
         "sentencepiece == 0.1.91",
         "tokenizers == 0.10.1",
