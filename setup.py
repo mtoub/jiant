@@ -73,7 +73,7 @@ setup(
         "scipy == 1.4.1",
         "sentencepiece == 0.1.91",
         "tokenizers == 0.10.1",
-        "tqdm == 4.46.0",
+        "tqdm == 4.66.3",
         "transformers == 4.5.0",
         "torch >= 1.8.1",
         "torchvision == 0.9.1",
